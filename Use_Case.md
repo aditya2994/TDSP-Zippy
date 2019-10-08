@@ -1,7 +1,6 @@
 We are trying to model the likelihood of purchasing MAPD or Med Supplement during Special election period
-
-Prospect model (65-85 years)
-
+It is a Prospect model for those between 65-85 years of age.
+There are 4 data sources - 
 AMLK (2017, 2018) 
 Campaign Data (Who were targeted, who responded etc.)
 Credit data
